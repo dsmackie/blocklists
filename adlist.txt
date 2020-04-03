@@ -1,1 +1,1 @@
-||scout-cdn.salesloft.com/sl.js
+||scout-cdn.salesloft.com^

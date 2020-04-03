@@ -1,1 +1,3 @@
-||scout-cdn.salesloft.com^
+[Adblock Plus 2.0]
+! Title: Dans Custom Filters
+||scout-cdn.salesloft.com/sl.js

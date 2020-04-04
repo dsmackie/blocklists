@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Dans Custom Filters
 !
-||scout-cdn.salesloft.com/sl.js
 ||akamaihd.net/trustedsaver.js
 ||al9l235gkc7d.ru^
+||scout-cdn.salesloft.com/sl.js
 ||api.jollywallet.com/affiliate/client?
 ||apiskywebbercom-a.akamaihd.net^
